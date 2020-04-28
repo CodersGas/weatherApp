@@ -10,3 +10,5 @@ API used -:
 1. OpenWeather
 
 The app is supported for mobile as well as desktop view
+
+Live app link :- https://codersgas.github.io/weatherApp/
